@@ -3,6 +3,7 @@
 I am a student.<br>
 我是个学生。<br>
 Welcome to report bugs,ideas or pull requests.<br>
+欢迎报告bug，想法或贡献代码。
 
 
 
