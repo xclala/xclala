@@ -1,6 +1,9 @@
 ### Hi there 👋<br>
 ### 嗨，你好！<br>
-I am a student.<br>Welcome to report bugs,ideas or pull requests.
+I am a student.<br>
+我是个学生。<br>
+Welcome to report bugs,ideas or pull requests.<br>
+
 
 
 <!--
