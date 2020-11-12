@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋<br>
+I am a student.<br>Welcome to report bugs,ideas or pull requests.
+
 
 <!--
 **xclala/xclala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
