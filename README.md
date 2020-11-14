@@ -1,5 +1,6 @@
-### Hi there! 👋<br>
-### 嗨，你好！ 👋<br>
+<h1 align="center"> Hi there! 👋</h1><br>
+<h2 align="center"> 嗨，你好！ 👋</h2><br>
+
 I am a Chinese student.<br>
 我是个中国学生。<br>
 Welcome to report bugs,ideas or pull requests.<br>
