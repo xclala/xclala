@@ -4,8 +4,6 @@ I am a <strong>Chinese student</strong>.<br>
 我是个<strong>中国学生</strong>。<br>
 Welcome to <strong>report bugs,ideas or pull requests</strong>.<br>
 欢迎<strong>报告bug，想法或贡献代码</strong>。
-[xclala's github stats](https://github-readme-stats.vercel.app/api?username=xclala&show_icons=true&count_private=true)<br>
-[xclala的github数据统计](https://github-readme-stats.vercel.app/api?username=xclala&show_icons=true&count_private=true)
 
 
 
